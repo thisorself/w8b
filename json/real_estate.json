@@ -1,0 +1,17 @@
+[
+    {
+        "type": "House",
+        "location": "Ukraine, Odessa",
+        "price": 1000000
+    },
+    {
+        "type": "Apartment",
+        "location": "Ukraine, Kyiv",
+        "price": 10000000
+    },
+    {
+        "type": "Ho",
+        "location": "Do",
+        "price": "5"
+    }
+]

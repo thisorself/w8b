@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<realestate>
+    <estate>
+        <type>House</type>
+        <location>Ukraine, Odessa</location>
+        <price currency="UAN">1000000</price>
+    </estate>
+    <estate>
+        <type>Apartment</type>
+        <location>Ukraine, Kyiv</location>
+        <price currency="UAN">10000000</price>
+    </estate>
+<estate><type>House</type><location>Ukraine, Donetsk</location><price>1</price>
+</estate><estate><type>B</type><location>Kh</location><price>4</price></estate></realestate>
